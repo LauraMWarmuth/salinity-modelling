@@ -1,4 +1,4 @@
-### Scleractinia Salinity Modelling
+### Scleractinia Salinity Modelling for the Marshall Islands region
 
 ## RGBIF Coral Occurrence Data
 library(rgbif)
